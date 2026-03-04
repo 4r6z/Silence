@@ -19,3 +19,8 @@ cleaner code, less garbage, better performance
 * fixed bugs
 * removed protection trash
 * overall cleaner & smoother
+  
+## Disclaimer
+
+This software is provided for **educational and research purposes only**.
+I am not responsible for how it is used.
